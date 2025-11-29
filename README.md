@@ -4,3 +4,5 @@
 2. 😀 API (Application Programming Interface): Conjunto de funciones y protocolos que permiten la comunicación entre aplicaciones o sistemas.
 
 3. 🍇 Algoritmo: Conjunto de pasos lógicos y ordenados que resuelven un problema o realizan una tarea.
+
+4. ☠️ NFT: Activo digital único en blockchain.
