@@ -12,4 +12,4 @@
 6. 🦍 Nube: Entrega bajo demanda de servicios de computación a través de Internet, como servidores, almacenamiento, bases de datos y software, en lugar de depender de una infraestructura física local.
 
 7. 🤑 Kubernetes: Plataforma de código abierto, creada originalmente por Google, que automatiza el despliegue, escalado y gestión de aplicaciones en contenedores.
-
+8. 🎶Deployment : Proceso de tomar un software o una aplicación desarrollada localmente y hacerla accesible para los usuarios finales en un entorno de producción
