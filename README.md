@@ -13,3 +13,4 @@
 
 7. 🤑 Kubernetes: Plataforma de código abierto, creada originalmente por Google, que automatiza el despliegue, escalado y gestión de aplicaciones en contenedores.
 8. 🎶Deployment : Proceso de tomar un software o una aplicación desarrollada localmente y hacerla accesible para los usuarios finales en un entorno de producción
+9. 🥸 Riesgo: es un evento o circunstancia incierta que, si ocurre, tiene un impacto negativo en un proyecto, sistema o proceso de desarrollo, afectando sus objetivos de tiempo, costo, calidad o alcance
